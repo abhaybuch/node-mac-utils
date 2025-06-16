@@ -1,6 +1,6 @@
 {
 	"name": "node-mac-utils",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A native Node.js module with utilities for macOS",
 	"main": "index.js",
 	"type": "index.d.ts",
